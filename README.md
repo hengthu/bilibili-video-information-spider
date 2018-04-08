@@ -57,4 +57,4 @@ B站对爬虫采取的是一旦发现，就封ip半小时到1天不等的时间�
 画图代码见 [收藏数与硬币数关系.py](code/收藏数与硬币数关系.py)</br>
 ![](image/收藏数与硬币数关系.png)</br>
 爬虫代码见 [bilibili-spider.py](bilibili-spider.py)</br>
-参考代码： [bili-spider](https://github.com/chenjiandongx/bili-spider)</br>
+参考资料： [bili-spider](https://github.com/chenjiandongx/bili-spider)</br>
