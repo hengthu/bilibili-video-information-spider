@@ -5,7 +5,7 @@
 
 ## 准备工作
 
-我使用的是Python3，数据库用的是Python自带的sqlite。</br>
+我使用的是Python3，数据库用的是Python自带的sqlite，使用requests库爬取。</br>
 安装需要的库</br>
 
 ```python
