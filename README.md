@@ -1,6 +1,6 @@
 # B站视频信息(av号，播放量，弹幕数，硬币数，分享量，评论数，收藏数)爬虫
 
-
+## 相关文章:[B站用户信息爬虫](https://github.com/zhang0peter/bilibili-user-information-spider)  
 数据结果在最下面。</br>
 
 ## 准备工作
